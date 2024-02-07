@@ -1,0 +1,116 @@
+.navbar,.navbar-expand-lg{
+    position: fixed;
+}
+
+.collapse,.navbar-collapse
+{
+    float: right;
+}
+
+.txt{
+    font-size: 20px;
+    
+    padding: 70px;
+    margin-top: -55px;
+}
+.abt1{
+    
+    width: 55%;
+    padding: 40px;
+}
+.abt2{
+    padding: 40px;
+    width: 40%;
+    margin-top: -60px;
+}
+.about{
+ display: flex;
+ padding: 20px;
+ align-items: center;
+}
+
+.aboup{
+    border-radius: 20px;
+}
+h2{
+    font-size: 60px;
+    margin-left: 30px;
+    padding: 40px;
+}
+
+
+.Districts{
+    padding: 70px;
+}
+
+.margin-hd{
+    margin-left: -17px;
+}
+
+.frm{
+    margin: 0 auto;
+    max-width: 15cm;
+    padding: 50px;
+    border-radius: 10px;
+    background-color: rgb(143, 229, 162);
+}
+.sbody{
+    padding-top: 20px;
+    background-image: linear-gradient();
+    background-size:cover;
+}
+
+.sdiv{
+    padding-top: 200px;
+    text-align: center;
+   
+}
+
+.text-center{
+    background-color: rgb(24, 40, 77);
+    color: white;
+    font-family:inherit;
+}
+
+.district-container {
+    max-width: 800px;
+    float: right;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; 
+    
+
+    
+  }
+
+  .district-details {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 1.2rem;
+    color: rgb(249, 248, 248);
+   
+    width: 100%;
+    background-color: rgba(10, 9, 9, 0.7); 
+    margin-left:10px;
+    margin-right:10px;
+    margin-bottom: 10px;
+    margin-top:10px;
+   padding: 20px;
+    text-align:justify;
+    
+  }
+
+ 
+  .district-image {
+    max-width: 48%; 
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+
+.card-img{
+    width: 100;
+    height: auto;
+
+}
